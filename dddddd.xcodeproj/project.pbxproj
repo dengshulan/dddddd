@@ -214,7 +214,7 @@
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
-
+//这里做了修改
 /* Begin XCConfigurationList section */
 		3FCDECCA1B8702F000F838C3 /* Build configuration list for PBXProject "dddddd" */ = {
 			isa = XCConfigurationList;
