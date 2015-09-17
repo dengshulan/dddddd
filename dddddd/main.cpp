@@ -12,7 +12,7 @@
 #include <cstdlib>
 #include <ctime>
 using namespace std;
-
+//在这里添加一行注释
 const int INF=0x7fffffff;
 int max_sub_array(int arr[],int n,int &left,int &right)
 {
