@@ -21,7 +21,7 @@
 			runOnlyForDeploymentPostprocessing = 1;
 		};
 /* End PBXCopyFilesBuildPhase section */
-
+//sssssssssssssssss
 /* Begin PBXFileReference section */
 		3FCDECCF1B8702F000F838C3 /* dddddd */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = dddddd; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FCDECD21B8702F000F838C3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
